@@ -24,3 +24,6 @@ python-dateutil==2.3
 
 # MPDControl module
 python-mpd==0.3.0
+
+# tox unit tests for python 2+3
+tox==2.3.1
